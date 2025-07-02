@@ -1,5 +1,3 @@
----
-
 ## 👨‍💻 Currently working at Rowan Company
 
 Most of my recent contributions since 2024~2025 have been made under the company GitHub account.  
