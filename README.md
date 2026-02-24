@@ -13,15 +13,13 @@ please check out the company account to see more of my recent work!
 
 ### 📊 Personal Account Stats
 
-<table>
-  <tr>
-    <td>
-      <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=csc7545&layout=donut&theme=dark" />
-      </a>
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=csc7545&show_icons=true&theme=dark&count_private=true" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=csc7545&show_icons=true&theme=dark&count_private=true&cache_seconds=1800" 
+    height="165"
+  />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=csc7545&layout=compact&theme=dark&cache_seconds=1800" 
+    height="165"
+  />
+</p>
