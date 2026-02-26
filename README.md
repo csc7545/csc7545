@@ -10,3 +10,11 @@ The stats below reflect my personal account activity only —
 please check out the company account to see more of my recent work!
 
 ---
+
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=csc7545&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/csc7545"
+  width="1000"
+  height="500"
+/>
+</a>
